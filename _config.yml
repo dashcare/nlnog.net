@@ -6,4 +6,9 @@ foo: bar
 nav:
 - index.md
 - nlnog-camp-2018.md
+- mailinglist.md
+- irc.md
+- tools.md
+- sponsors.md
 - contact.md
+- previous-events.md

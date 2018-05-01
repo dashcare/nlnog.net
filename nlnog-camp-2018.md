@@ -32,4 +32,4 @@ Camp wiki: [https://github.com/NLNOG/camp/wiki](https://github.com/NLNOG/camp/wi
 
 [Juniper Networks](https://juniper.net/), [AMS-IX](https://ams-ix.net/), [Cybersprint](https://www.cybersprint.nl/), [Duocast](https://duocast.nl/), [i3D.net](http://www.i3d.net/), [LONAP](https://www.lonap.net/), [Leaseweb](https://www.leaseweb.com/), [Netflix](https://www.netflix.com), [NTT](https://us.ntt.net/), [PCextreme](https://www.pcextreme.com/), [PowerDNS](https://www.powerdns.com/), … and you? Contact us for sponsorship details!
 
-![Untitled 2](http://nlnog.net/wp-content/uploads/2018/04/Untitled-2.png)
+![NLNOG camp 2018]({{ "/assets/img/nlnog-camp-2018.png" | absolute_url }})
