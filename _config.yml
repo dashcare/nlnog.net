@@ -4,7 +4,6 @@ github: [metadata]
 foo: bar
 
 nav:
-- index.md
 - nlnog-camp-2018.md
 - mailinglist.md
 - irc.md

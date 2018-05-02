@@ -25,4 +25,4 @@ Board:               Job Snijders (chairman)
 
 # Privacy Policy
 
-Stichting NLNOG’s Privacy Policy can be found here: [https://nlnog.net/privacy/](https://nlnog.net/privacy/)
+If you attend an Stichting NLNOG event, Stichting NLNOG will store the information you submitted to register for the event for up to two years. This information is stored for operational and administrative purposes. If you’d like us to delete your information at an earlier point in time please reach out to stichting@nlnog.net.
